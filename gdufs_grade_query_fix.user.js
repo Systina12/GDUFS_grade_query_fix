@@ -7,6 +7,8 @@
 // @supportURL   https://github.com/Systina12/GDUFS_grade_query_fix/issues
 // @match        https://jxgl.gdufs.edu.cn/*
 // @grant        none
+// @updateURL    https://github.com/Systina12/GDUFS_grade_query_fix/raw/main/gdufs_grade_query_fix.user.js
+// @downloadURL  https://github.com/Systina12/GDUFS_grade_query_fix/raw/main/gdufs_grade_query_fix.user.js
 // ==/UserScript==
 
 (function() {
